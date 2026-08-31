@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nsr4d.pyphen.org/sitemap.xml
